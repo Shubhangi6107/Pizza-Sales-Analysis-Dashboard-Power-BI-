@@ -23,7 +23,7 @@ Gathered  ingredients for this project:
 ## Tools
 In this project,I used:
 
-- **Excel:**A pivotal tool for data cleaning and initial processing, ensuring data integrity.
+- **Excel:** A pivotal tool for data cleaning and initial processing, ensuring data integrity.
 - **Power BI:** It  turns data into a visually appealing feast with KPIs, bar charts, and column charts.
 
 ## Data Cleaning/Preparation
